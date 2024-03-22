@@ -67,6 +67,6 @@ id,produto,quantidade,preço,data
 8,tênis,4,120.00,08/01/2023
 9,bone,12,10.00,09/01/2023
   adding: backup-dados-20240322.csv (deflated 56%)
-
+ 
 -----------------------------------------------
 
