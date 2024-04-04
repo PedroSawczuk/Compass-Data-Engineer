@@ -1,0 +1,103 @@
+--1
+
+SELECT 
+    titulo,
+    valor
+FROM livro
+ORDER BY valor desc
+LIMIT 10
+
+--2 
+
+SELECT 
+    titulo,
+    valor
+FROM livro
+ORDER BY valor desc
+LIMIT 10
+
+--3
+
+
+SELECT
+    COUNT(livro.cod) AS quantidade,
+    editora.nome,
+    endereco.estado,
+    endereco.cidade
+FROM
+    livro
+JOIN
+    editora 
+    ON livro.editora = editora.codeditora
+JOIN
+    endereco 
+    ON editora.endereco = endereco.codendereco
+GROUP BY
+    editora.nome,
+    endereco.estado,
+    endereco.cidade
+ORDER BY
+    quantidade DESC
+LIMIT 5;
+
+-- 4
+SELECT
+    autor.codautor,
+    autor.nome,
+    autor.nascimento,
+    COUNT(livro.cod) AS quantidade
+FROM
+    autor
+LEFT JOIN
+    livro ON autor.codautor = livro.autor
+GROUP BY
+    autor.codautor,
+    autor.nome,
+    autor.nascimento
+ORDER BY
+    autor.nome;
+
+--5
+
+SELECT DISTINCT
+    autor.nome
+FROM
+    autor
+JOIN
+    livro ON autor.codautor = livro.autor
+JOIN
+    editora ON livro.editora = editora.codeditora
+JOIN
+    endereco ON editora.endereco = endereco.codendereco
+WHERE
+    endereco.estado NOT IN ('PARANÁ', 'RIO GRANDE DO SUL', 'SANTA CATARINA')
+ORDER BY
+    autor.nome DESC;
+
+-- 6
+
+SELECT 
+    codautor, 
+    nome, 
+    COUNT(*) AS quantidade_publicacoes
+    
+FROM 
+    autor
+JOIN 
+    livro 
+    ON autor.codautor = livro.autor
+
+GROUP BY 
+    codautor, nome
+ORDER BY quantidade_publicacoes DESC
+
+LIMIT 1;
+
+-- 7
+
+SELECT nome
+FROM autor
+LEFT JOIN livro ON autor.codautor = livro.autor
+WHERE livro.cod IS NULL
+ORDER BY nome ASC;
+

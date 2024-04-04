@@ -26,13 +26,18 @@ Olá, sou o Pedro Henrique Sawczuk Monteiro, tenho 19 anos e sou acadêmio de An
 
 1.  <img align="center" alt="evidencia 1" src="Sprint 1\evidencias\evidencia-4.png" />
 
-2. <img align="center" alt="evidencia 1" src="Sprint 1\evidencias\evidencia-3.png" />
+---
 
-<a href="Sprint%201/evidencias">Todas as Evidências</a>
+2. <img align="center" alt="evidencia 2" src="Sprint 2\evidencias\evidencia-02.png" />
+
+<a href="Sprint%201/evidencias">Todas as Evidências da Sprint 1</a>
+
+<a href="Sprint%202/evidencias">Todas as Evidências da Sprint 2</a>
 
 ## Sprints 
 
-1. [Sprint 1](Sprint%201/README.md)
+1. [Sprint 1](Sprint%201/README.md) 
+2. [Sprint 2](Sprint%202/README.md)
 <!-- 2. [Sprint 2](Sprint%202/README.md)
 3. [Sprint 3](Sprint%203/README.md) -->
 
