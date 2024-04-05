@@ -31,10 +31,6 @@ Parte **Modelo Dimensional**
 
 # Certificados
 
-- Certificado do Curso MySQL
+- Certificado do AWS Partner
 
-![Curso ABC](certificados/certificado-mysql.jpg)
-
-- Certificado do Curso Linux
-
-![Curso ABC](certificados/certificado-linux.jpg)
+![AWS Skill Builder](certificados/aws-certificado.png)
