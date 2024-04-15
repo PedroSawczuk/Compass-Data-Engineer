@@ -15,8 +15,8 @@ Utilize o arquivo README.md da Sprint para organizar todas as suas entregas. Fa�
 
 Ao contrário da Sprint anterior, nessa houve alguns exercícios!
 
-1. [Exercício 1](exercicios/exercicio-biblioteca.sqlite)
-2. [Exercício 2](exercicios/exercicio-loja.sqlite)
+1. [Exercício 1](exercicios/ex-01.py)
+2. [Exercício 2](exercicios/ex-02.py)
 
 # Evidências
 
