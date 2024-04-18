@@ -22,12 +22,8 @@ Ao contrário da Sprint anterior, nessa houve alguns exercícios!
 
 O código **desafio.sql** onde tinhamos que normalizar um banco de dados, funcionou perfeitamente! Como pode-se ver aqui:
 
+![Evidencia 1](evidencias/evidencia-01.png)
 ![Evidencia 1](evidencias/evidencia-04.png)
-![Evidencia 1](evidencias/evidencia-03.png)
-
-Parte **Modelo Dimensional**
-
-![Evidencia 1](evidencias/evidencia-5.png)
 
 # Certificados
 
