@@ -8,7 +8,7 @@ O desafio está presente em cada sprint ao longo do estágio. Utilize o diretór
 
 # Etapas - Desafios
 
-1. [Normalizar Banco de Dados](sprint-2/banco-de-dados-normalizado.sql)
+1. [Normalizar Banco de Dados](sprint-3/banco-de-dados-normalizado.sql)
 1. [Modelo Dimensional](sprint-2/modelo-dimensional.png)
 
 <!--
