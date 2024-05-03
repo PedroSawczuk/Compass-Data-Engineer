@@ -15,12 +15,11 @@ Utilize o arquivo README.md da Sprint para organizar todas as suas entregas. Fa�
 
 Ao contrário da Sprint anterior, nessa houve alguns exercícios!
 
-1. [Exercício 1](exercicios/ex-01.py)
-2. [Exercício 2](exercicios/ex-02.py)
+1. [Exercício 1](exercicios/ex01.py)
 
 # Evidências
 
-O código **desafio.sql** onde tinhamos que normalizar um banco de dados, funcionou perfeitamente! Como pode-se ver aqui:
+O código **Dockerfile_mascarar** funcionou perfeitamente! Como pode-se ver aqui:
 
 ![Evidencia 1](evidencias/evidencia-01.png)
 ![Evidencia 1](evidencias/evidencia-04.png)

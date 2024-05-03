@@ -8,7 +8,10 @@ O desafio está presente em cada sprint ao longo do estágio. Utilize o diretór
 
 # Etapas - Desafios
 
-1. [Gráficos a partir do arquivo CSV!](sprint-3/código-desafio.ipynb)
+1. [DockerFile Carguru!](sprint-4/Dockerfile_carguru)
+2. [DockerFile Mascarar!](sprint-4/Dockerfile_mascarar)
+3. [Carguru Py](sprint-4/carguru.py)
+4. [Mascarar Py!](sprint-4/mascarar_script.py)
 
 <!--
 2. ...

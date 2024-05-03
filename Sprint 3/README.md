@@ -20,7 +20,7 @@ Ao contrário da Sprint anterior, nessa houve alguns exercícios!
 
 # Evidências
 
-O código **desafio.sql** onde tinhamos que normalizar um banco de dados, funcionou perfeitamente! Como pode-se ver aqui:
+O gerador de gráficos funcionou perfeitamente! Como pode-se ver aqui:
 
 ![Evidencia 1](evidencias/evidencia-01.png)
 ![Evidencia 1](evidencias/evidencia-04.png)
