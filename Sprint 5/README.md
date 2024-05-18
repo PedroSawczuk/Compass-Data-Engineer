@@ -20,10 +20,10 @@ Nessa sprint não houve exercicios!
 O código **main.py** funcionou perfeitamente! Como pode-se ver aqui:
 
 ![Evidencia 1](evidencias/evidencia-01.png)
-![Evidencia 2](evidencias/evidencia-04.png)
+![Evidencia 2](evidencias/evidencia-03.png)
 
 # Certificados
 
 - Certificado do AWS
 
-![AWS Skill Builder](certificados/aws-certificado.png.png)
+![AWS Skill Builder](certificados/aws-certificado.png)
