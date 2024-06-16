@@ -12,10 +12,13 @@ Utilize o arquivo README.md da Sprint para organizar todas as suas entregas. Fa�
  -->
 
 # Exercícios
-
+Tivemos exercício nessa sprint, sobre Laboratório Glu. Porém, com alguns problemas e materias desatualizados. Não obtive sucesso ao fazer!
 
 # Evidências
 
+![Evidencia 1](evidencias/evidencia-01.png)
+![Evidencia 2](evidencias/evidencia-02.png)
+![Evidencia 3](evidencias/evidencia-03.png)
 
 # Certificados
-
+Tivemos só a certificação de Spark.
