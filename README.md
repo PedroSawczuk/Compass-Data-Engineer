@@ -20,7 +20,7 @@ ___ -->
 
 ## Apresentação
 
-Olá, sou o Pedro Henrique Sawczuk Monteiro, tenho 19 anos e sou acadêmio de Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Rondônia. Estou atualmente no 5º período
+Olá, sou o Pedro Henrique Sawczuk Monteiro, tenho 20 anos e sou acadêmio de Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Rondônia. Estou atualmente no 5º período
 
 ## Evidências
 
@@ -42,6 +42,18 @@ Olá, sou o Pedro Henrique Sawczuk Monteiro, tenho 19 anos e sou acadêmio de An
 
 5. <img align="center" alt="evidencia 5" src="Sprint 5\evidencias\evidencia-03.png" />
 
+---
+
+6. <img align="center" alt="evidencia 6" src="Sprint 6\evidencias\evidencia-03.png" />
+
+---
+
+7. <img align="center" alt="evidencia 7" src="Sprint 7\evidencias\evidencia-03.png" />
+
+---
+
+8. <img align="center" alt="evidencia 8" src="Sprint 8\evidencias\evidencia-03.png" />
+
 
 <a href="Sprint%201/evidencias">Todas as Evidências da Sprint 1</a>
 
@@ -53,6 +65,13 @@ Olá, sou o Pedro Henrique Sawczuk Monteiro, tenho 19 anos e sou acadêmio de An
 
 <a href="Sprint%205/evidencias">Todas as Evidências da Sprint 5</a>
 
+<a href="Sprint%206/evidencias">Todas as Evidências da Sprint 6</a>
+
+<a href="Sprint%207/evidencias">Todas as Evidências da Sprint 7</a>
+
+<a href="Sprint%208/evidencias">Todas as Evidências da Sprint 8</a>
+
+
 ## Sprints 
 
 1. [Sprint 1](Sprint%201/README.md) 
@@ -60,8 +79,11 @@ Olá, sou o Pedro Henrique Sawczuk Monteiro, tenho 19 anos e sou acadêmio de An
 3. [Sprint 3](Sprint%203/README.md)
 4. [Sprint 4](Sprint%204/README.md)
 5. [Sprint 5](Sprint%205/README.md)
+6. [Sprint 6](Sprint%206/README.md)
+7. [Sprint 7](Sprint%207/README.md)
+8. [Sprint 8](Sprint%208/README.md)
 <!-- 2. [Sprint 2](Sprint%202/README.md)
-3. [Sprint 3](Sprint%203/README.md) -->
+1. [Sprint 3](Sprint%203/README.md) -->
 
 <!-- ## Desafio
 
