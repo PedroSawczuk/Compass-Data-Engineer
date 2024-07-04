@@ -18,13 +18,15 @@ Criar o bucket data-lake. E colocar os dois arquivos **(series e movies .csv)** 
 
 Eu pensei nas seguintes perguntas
 
-      1. Filmes de Fantasia com tempo superior a 5 com maiores médias:
+      1. Correlação entre Número de Votos e Nota Média.
 
-      2. Atores que mais apareceram no gênero de Sci-Fi:
+      2. Ranking dos Filmes Mais Votados.
 
-      3. Em 10 anos, saiu mais filmes de Sci-Fi ou Fantasy?
+      3. Evolução do Número de Votos ao Longo dos Anos.
 
-      4. Atores mais velhos a participar de um filme de Sci-Fi:
+      4. Evolução da quantidade de filmes de Fantasia ao Longo do Tempo.
+   
+      5. Duração dos Filmes de Fantasia.
 <!--
-2. ...
+1. ...
 [Etapa II](etapa-2/entrega.txt) -->
